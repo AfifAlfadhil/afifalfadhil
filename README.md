@@ -5,6 +5,10 @@
   </p>
 </div>
 
+<img align="right" width="115"
+     src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif"
+     alt="Pikachu">
+
 <p>
   I'm a Data Science student with an interest in web development, artificial intelligence, and creative problem-solving. I enjoy exploring new ideas, learning different things, and turning them into meaningful projects through code and creativity.
 </p>
